@@ -22,7 +22,7 @@ here.
 
 `sharp` (Apache-2.0 AND LGPL-3.0-or-later) and `lightningcss` (MPL-2.0)
 are in neither closure. They are used only by the web application, while
-it builds and while it serves, and never by the desktop bundle. This is
+it builds and while it serves and never by the desktop bundle. This is
 checked on every run, so nothing here places Cresard Desk under a
 copyleft licence.
 
