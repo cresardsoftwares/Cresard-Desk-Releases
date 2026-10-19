@@ -20,9 +20,10 @@ Cresard administrator, and there is no public sign up.
 
 ## Installing
 
-1. Open the newest release on the Releases page.
-2. Download the installer.
-3. Run it.
+1. Download the newest installer, either from the [`installers`](installers)
+   directory in this repository or from <https://desk.cresard.com/download>. A
+   page on the Releases tab appears once a release has been published there.
+2. Run it.
 
 Windows will warn that the publisher is unknown, because the installer does not
 carry a paid Windows code signing certificate. Choose **More info**, then
