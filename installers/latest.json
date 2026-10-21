@@ -1,9 +1,9 @@
 {
-  "version": "0.4.3",
-  "file": "Cresard-Desk-0.4.3-x64-setup.exe",
-  "size": 15863782,
-  "sha256": "f6ce19e1b1a5182240fa06167eb8fa577a1d78e0de9e2536c713bc7d4512a8a9",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMTVtSmY4V1hnU3htZmZ6ayt1YWs2UVo2bi8vSWxEc0hZMklpcElJeEhtN0hBT1hYb3YvRWNDdTJ3NTBiVVRRZk16QkszOTExazlLUVhENmNGKzBmQVR4V1RyS3lFemdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTU3Njk5CWZpbGU6Q3Jlc2FyZCBEZXNrXzAuNC4zX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjQuMwpkU2hxdGJYa2RPQjZ3b2RSS2dJb281bUVja1RPcUdXWGFweU9qUVluN2FBKy9QU2hQL1RNZjdsU3hqZndKQm9nckVXei9FRVlhWW1idkRKQXRtRXVDZz09Cg==",
-  "published": "2026-10-21T04:41:50.475Z",
-  "notes": "https://github.com/cresardsoftwares/Cresard-Desk-Releases/releases/tag/v0.4.3"
+  "version": "0.5.0",
+  "file": "Cresard-Desk-0.5.0-x64-setup.exe",
+  "size": 16212639,
+  "sha256": "56b1e3f9a5a5ed3aff8954be837306f5af3f3a6dd7f4abbce3108671150e645f",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMTVtSmY4V1hnUzZPK05mM29ZSjZVaDRSRzBlTk1uNno4UTFBVm9vTWV0SEtrRVNkQXpoTktSNnVzRjBQKzBDejJmNms5d2E1ZnVXaXp0ajdDaENEQ2tlalljRlZUN2dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNTkxMzUzCWZpbGU6Q3Jlc2FyZCBEZXNrXzAuNS4wX3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjUuMApJTzBGdmE5RUpDak12MWpEYUxTOUFrbkxaZGdVejEzOW9PS0JDQ0NYcHVZSzhBWkx3VmlJTzEyL2QvMkd2N2tHWXlVT3c1bkhsTzFuc09RQXFFVmZDUT09Cg==",
+  "published": "2026-10-21T14:02:39.391Z",
+  "notes": "https://github.com/cresardsoftwares/Cresard-Desk-Releases/releases/tag/v0.5.0"
 }
